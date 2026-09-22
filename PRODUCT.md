@@ -43,7 +43,7 @@ Visitors are likely on a phone, may be dealing with a leak or blockage, and need
 ## Evidence on Hand
 
 - Six visual reference screenshots supplied in the conversation.
-- Eight project-local generated photographs in `assets/images/`.
+- User-supplied logo, hero composition, service photography, customer-interaction image, and testimonial portraits in `assets 2/`; the live page now uses this set for every displayed raster image.
 - No verified customer review, address, operating hours, legal copy, or production contact number was available.
 - The named design-guide file was not present in the project folder during implementation.
 
