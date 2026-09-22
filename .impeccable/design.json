@@ -166,6 +166,7 @@
       { "name": "The Compact Promise Rule", "body": "Major headings stay heavy, tightly tracked, and short enough to read in one glance.", "section": "typography" },
       { "name": "The One Handwritten Note Rule", "body": "Georgia italic is a rare human signature, not a third general-purpose typeface.", "section": "typography" },
       { "name": "The Alternating-Panel Rule", "body": "Preserve the rhythm of dark photographic panels and warm explanatory panels; avoid a continuous field of interchangeable cards.", "section": "layout" },
+      { "name": "The Supplied-Asset Rule", "body": "Use the user-supplied assets 2 directory as the source of truth for the live logo and raster photography. Preserve the layered hero composition and crop around faces, tools, and active plumbing work.", "section": "imagery" },
       { "name": "The Evidence Gets Lift Rule", "body": "Elevation belongs to proof, location, or immediate action—not to every section wrapper.", "section": "elevation" },
       { "name": "The Pipe-Bend Rule", "body": "Large asymmetric radii are reserved for hero-scale photographs and major operational panels; compact controls remain disciplined.", "section": "shapes" }
     ],
@@ -174,7 +175,8 @@
       "Do keep urgent contact routes obvious, large, and reachable on mobile.",
       "Do use cyan emphasis to connect typography, focus, navigation, and technical plumbing geometry.",
       "Do alternate dense navy photography with warm off-white breathing room.",
-      "Do preserve visible keyboard focus and reduced-motion behavior."
+      "Do preserve visible keyboard focus and reduced-motion behavior.",
+      "Do source live logo and raster photography from assets 2 and keep informative alt text aligned with the visible task."
     ],
     "donts": [
       "Don't spread orange across decorative elements; reserve it for urgent conversion and one featured service cue.",

@@ -181,6 +181,14 @@ At 1120px, dense grids simplify to two columns and operational content moves ben
 
 **The Alternating-Panel Rule.** Preserve the rhythm of dark photographic panels and warm explanatory panels; avoid a continuous field of interchangeable cards.
 
+## Photography & Asset Direction
+
+All live raster imagery and the company logo come from the user-supplied `assets 2/` directory. Keep those files as the visual source of truth. The hero is a deliberate two-layer composition: the bathroom background fills the viewport while the transparent plumber cutout is positioned independently so his face, tool, and workwear remain legible beside the headline.
+
+Service photography uses strong `object-fit: cover` crops that keep the technician and the active plumbing task visible. The customer-conversation image supports trust and location context; the testimonial portrait is illustrative and remains paired with the visible “Ulasan contoh” label until a verified review is supplied. On mobile, prioritize faces and tools over showing the full room, and preserve descriptive alt text for every informative image.
+
+**The Supplied-Asset Rule.** Replace or add photography from `assets 2/` first; do not mix the shipped set with generic stock or previously generated project images unless the owner explicitly changes direction.
+
 ## Elevation & Depth
 
 Depth is hybrid: the main page architecture is tonal and flat, while contained proof, map, inset-photo, and urgent-action elements receive ambient lift. Photography supplies most visual depth; shadows should remain colored by navy or orange rather than neutral black.
