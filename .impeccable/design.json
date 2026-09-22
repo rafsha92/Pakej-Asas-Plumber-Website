@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-09-22T16:20:04.3439078+08:00",
+  "title": "Design System: Ahmad Plumbing",
+  "extensions": {
+    "colorMeta": {
+      "workwear-navy-deep": {
+        "role": "primary",
+        "displayName": "Deep Workwear Navy",
+        "canonical": "#031b2c",
+        "tonalRamp": ["oklch(15% 0.045 242.3)", "oklch(27% 0.045 242.3)", "oklch(39% 0.045 242.3)", "oklch(51% 0.045 242.3)", "oklch(63% 0.045 242.3)", "oklch(75% 0.045 242.3)", "oklch(87% 0.045 242.3)", "oklch(95% 0.045 242.3)"]
+      },
+      "workwear-navy": {
+        "role": "primary",
+        "displayName": "Workwear Navy",
+        "canonical": "#06263b",
+        "tonalRamp": ["oklch(15% 0.054 242.1)", "oklch(27% 0.054 242.1)", "oklch(39% 0.054 242.1)", "oklch(51% 0.054 242.1)", "oklch(63% 0.054 242.1)", "oklch(75% 0.054 242.1)", "oklch(87% 0.054 242.1)", "oklch(95% 0.054 242.1)"]
+      },
+      "pipe-cyan": {
+        "role": "primary",
+        "displayName": "Pipe Cyan",
+        "canonical": "#00c7d8",
+        "tonalRamp": ["oklch(15% 0.130 205.7)", "oklch(27% 0.130 205.7)", "oklch(39% 0.130 205.7)", "oklch(51% 0.130 205.7)", "oklch(63% 0.130 205.7)", "oklch(75% 0.130 205.7)", "oklch(87% 0.130 205.7)", "oklch(95% 0.130 205.7)"]
+      },
+      "pipe-cyan-deep": {
+        "role": "primary",
+        "displayName": "Deep Pipe Cyan",
+        "canonical": "#0495aa",
+        "tonalRamp": ["oklch(15% 0.107 212.2)", "oklch(27% 0.107 212.2)", "oklch(39% 0.107 212.2)", "oklch(51% 0.107 212.2)", "oklch(63% 0.107 212.2)", "oklch(75% 0.107 212.2)", "oklch(87% 0.107 212.2)", "oklch(95% 0.107 212.2)"]
+      },
+      "urgent-orange": {
+        "role": "tertiary",
+        "displayName": "Urgent Orange",
+        "canonical": "#ff6b12",
+        "tonalRamp": ["oklch(15% 0.199 44.1)", "oklch(27% 0.199 44.1)", "oklch(39% 0.199 44.1)", "oklch(51% 0.199 44.1)", "oklch(63% 0.199 44.1)", "oklch(75% 0.199 44.1)", "oklch(87% 0.199 44.1)", "oklch(95% 0.199 44.1)"]
+      },
+      "urgent-orange-hover": {
+        "role": "tertiary",
+        "displayName": "Lifted Urgent Orange",
+        "canonical": "#ff761f",
+        "tonalRamp": ["oklch(15% 0.189 46.8)", "oklch(27% 0.189 46.8)", "oklch(39% 0.189 46.8)", "oklch(51% 0.189 46.8)", "oklch(63% 0.189 46.8)", "oklch(75% 0.189 46.8)", "oklch(87% 0.189 46.8)", "oklch(95% 0.189 46.8)"]
+      },
+      "warm-off-white": {
+        "role": "secondary",
+        "displayName": "Warm Off-White",
+        "canonical": "#f8f6f0",
+        "tonalRamp": ["oklch(15% 0.008 91.5)", "oklch(27% 0.008 91.5)", "oklch(39% 0.008 91.5)", "oklch(51% 0.008 91.5)", "oklch(63% 0.008 91.5)", "oklch(75% 0.008 91.5)", "oklch(87% 0.008 91.5)", "oklch(95% 0.008 91.5)"]
+      },
+      "plumbing-ink": {
+        "role": "neutral",
+        "displayName": "Plumbing Ink",
+        "canonical": "#062641",
+        "tonalRamp": ["oklch(15% 0.062 248.3)", "oklch(27% 0.062 248.3)", "oklch(39% 0.062 248.3)", "oklch(51% 0.062 248.3)", "oklch(63% 0.062 248.3)", "oklch(75% 0.062 248.3)", "oklch(87% 0.062 248.3)", "oklch(95% 0.062 248.3)"]
+      },
+      "quiet-slate": {
+        "role": "neutral",
+        "displayName": "Quiet Slate",
+        "canonical": "#58677a",
+        "tonalRamp": ["oklch(15% 0.035 254.5)", "oklch(27% 0.035 254.5)", "oklch(39% 0.035 254.5)", "oklch(51% 0.035 254.5)", "oklch(63% 0.035 254.5)", "oklch(75% 0.035 254.5)", "oklch(87% 0.035 254.5)", "oklch(95% 0.035 254.5)"]
+      },
+      "clean-white": {
+        "role": "neutral",
+        "displayName": "Clean White",
+        "canonical": "#fffefb",
+        "tonalRamp": ["oklch(15% 0.004 91.4)", "oklch(27% 0.004 91.4)", "oklch(39% 0.004 91.4)", "oklch(51% 0.004 91.4)", "oklch(63% 0.004 91.4)", "oklch(75% 0.004 91.4)", "oklch(87% 0.004 91.4)", "oklch(95% 0.004 91.4)"]
+      }
+    },
+    "typographyMeta": {
+      "display": { "displayName": "Display", "purpose": "Hero statements and the largest conversion promises." },
+      "headline": { "displayName": "Headline", "purpose": "Section-level promises with compact editorial wrapping." },
+      "title": { "displayName": "Title", "purpose": "Service cards and operational subheads." },
+      "body": { "displayName": "Body", "purpose": "Explanatory copy, navigation, and controls." },
+      "lead": { "displayName": "Lead", "purpose": "Short section introductions on both light and dark surfaces." },
+      "label": { "displayName": "Label", "purpose": "Map labels, service indices, and compact metadata." }
+    },
+    "shadows": [
+      { "name": "urgent-action", "value": "0 14px 30px rgba(255,107,18,.25)", "purpose": "Resting orange CTA lift." },
+      { "name": "urgent-action-hover", "value": "0 18px 38px rgba(255,107,18,.38)", "purpose": "Hover reinforcement for urgent action." },
+      { "name": "inset-photo", "value": "0 20px 40px rgba(3,27,44,.18)", "purpose": "Separates layered photographic evidence from warm surfaces." },
+      { "name": "map-surface", "value": "0 30px 80px rgba(6,38,59,.12)", "purpose": "Broad ambient lift for the coverage canvas." },
+      { "name": "map-detail", "value": "0 7px 18px rgba(3,27,44,.12)", "purpose": "Small map labels and pin details." },
+      { "name": "sticky-action", "value": "0 15px 38px rgba(3,27,44,.42)", "purpose": "Separates the mobile WhatsApp bar from page content." }
+    ],
+    "motion": [
+      { "name": "ease-out-expressive", "value": "cubic-bezier(.16, 1, .3, 1)", "purpose": "Default easing for navigation, lift, image scale, and reveal motion." },
+      { "name": "state-fast", "value": "200ms", "purpose": "Skip-link and small state feedback." },
+      { "name": "state-standard", "value": "300ms", "purpose": "Button, navigation underline, and icon transitions." },
+      { "name": "panel-drawer", "value": "450ms", "purpose": "Mobile navigation drawer travel." },
+      { "name": "image-drift", "value": "800ms", "purpose": "Slow service-image hover scale." },
+      { "name": "hero-arrival", "value": "1000ms", "purpose": "Single initial hero-content entrance." }
+    ],
+    "breakpoints": [
+      { "name": "compact-desktop", "value": "1120px" },
+      { "name": "mobile", "value": "760px" }
+    ]
+  },
+  "components": [
+    {
+      "name": "Primary WhatsApp Button",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "The orange action used when the visitor should start an immediate WhatsApp conversation.",
+      "html": "<a class=\"ds-btn-primary\" href=\"#\"><svg aria-hidden=\"true\" viewBox=\"0 0 24 24\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg><span>WhatsApp Sekarang</span></a>",
+      "css": ".ds-btn-primary{min-height:58px;padding:0 28px;display:inline-flex;align-items:center;justify-content:center;gap:12px;border-radius:13px;background:var(--orange,#ff6b12);color:#fff;font:800 1rem/1 Manrope,sans-serif;text-decoration:none;box-shadow:0 14px 30px rgba(255,107,18,.25);transition:transform .3s cubic-bezier(.16,1,.3,1),box-shadow .3s cubic-bezier(.16,1,.3,1),background .3s}.ds-btn-primary svg{width:20px;fill:none;stroke:currentColor;stroke-width:1.9;stroke-linecap:round;stroke-linejoin:round}.ds-btn-primary:hover{transform:translateY(-3px);background:#ff761f;box-shadow:0 18px 38px rgba(255,107,18,.38)}.ds-btn-primary:focus-visible{outline:3px solid var(--cyan,#00c7d8);outline-offset:5px}.ds-btn-primary:active{transform:translateY(-1px)}"
+    },
+    {
+      "name": "Ghost Contact Button",
+      "kind": "button",
+      "refersTo": "button-ghost",
+      "description": "A secondary phone route that remains legible over dark photographic panels.",
+      "html": "<a class=\"ds-btn-ghost\" href=\"#\">Hubungi Kami</a>",
+      "css": ".ds-btn-ghost{min-height:58px;padding:0 28px;display:inline-flex;align-items:center;justify-content:center;border:1.5px solid rgba(255,255,255,.86);border-radius:13px;background:rgba(3,27,44,.18);color:#fff;font:800 1rem/1 Manrope,sans-serif;text-decoration:none;transition:transform .3s cubic-bezier(.16,1,.3,1),background .3s}.ds-btn-ghost:hover{transform:translateY(-3px);background:rgba(255,255,255,.1)}.ds-btn-ghost:focus-visible{outline:3px solid var(--cyan,#00c7d8);outline-offset:5px}.ds-btn-ghost:active{transform:translateY(-1px)}"
+    },
+    {
+      "name": "Primary Navigation",
+      "kind": "nav",
+      "description": "Bold utility navigation with a cyan line that grows under hover and active states.",
+      "html": "<nav class=\"ds-nav\" aria-label=\"Navigasi utama\"><a class=\"ds-nav-link ds-is-active\" href=\"#\">Utama</a><a class=\"ds-nav-link\" href=\"#\">Servis</a><a class=\"ds-nav-link\" href=\"#\">Kawasan</a><a class=\"ds-nav-link\" href=\"#\">Hubungi</a></nav>",
+      "css": ".ds-nav{display:flex;align-items:center;gap:38px;padding:0 24px;background:var(--navy-950,#031b2c)}.ds-nav-link{position:relative;padding:16px 2px;color:rgba(255,255,255,.82);font:700 1rem/1.2 Manrope,sans-serif;text-decoration:none}.ds-nav-link::after{content:\"\";position:absolute;left:0;right:100%;bottom:6px;height:2px;background:var(--cyan,#00c7d8);transition:right .3s cubic-bezier(.16,1,.3,1)}.ds-nav-link:hover,.ds-nav-link.ds-is-active{color:var(--white,#fffefb)}.ds-nav-link:hover::after,.ds-nav-link.ds-is-active::after{right:0}.ds-nav-link:focus-visible{outline:3px solid var(--cyan,#00c7d8);outline-offset:5px}"
+    },
+    {
+      "name": "Service Card",
+      "kind": "card",
+      "refersTo": "service-card",
+      "description": "A tall photographic service tile with a technical index and a navy readability fade.",
+      "html": "<article class=\"ds-service-card\"><div class=\"ds-service-card-media\" aria-hidden=\"true\"></div><div class=\"ds-service-card-copy\"><span>01</span><h3>Paip Bocor</h3><a href=\"#\">Lihat servis →</a></div></article>",
+      "css": ".ds-service-card{position:relative;width:min(330px,100%);height:530px;overflow:hidden;border:1px solid rgba(255,255,255,.68);border-radius:15px;background:var(--navy-900,#06263b);color:var(--white,#fffefb)}.ds-service-card-media{position:absolute;inset:0;background:var(--navy-900,#06263b);transition:transform .8s cubic-bezier(.16,1,.3,1)}.ds-service-card::after{content:\"\";position:absolute;inset:35% 0 0;background:linear-gradient(transparent,rgba(3,27,44,.96))}.ds-service-card-copy{position:absolute;z-index:2;left:24px;right:24px;bottom:23px}.ds-service-card-copy span{color:var(--orange,#ff6b12);font:800 1rem/1 Manrope,sans-serif}.ds-service-card-copy h3{margin:8px 0 17px;font:700 clamp(1.4rem,2.3vw,2.25rem)/1.08 Sora,sans-serif;letter-spacing:-.03em}.ds-service-card-copy a{display:inline-block;padding-bottom:7px;border-bottom:2px solid var(--cyan,#00c7d8);color:inherit;font:700 1rem/1.2 Manrope,sans-serif;text-decoration:none}.ds-service-card:hover .ds-service-card-media{transform:scale(1.055)}.ds-service-card a:focus-visible{outline:3px solid var(--cyan,#00c7d8);outline-offset:5px}"
+    },
+    {
+      "name": "Coverage Pin",
+      "kind": "custom",
+      "description": "An interactive map marker with a trade-color teardrop and compact white location label.",
+      "html": "<button class=\"ds-map-pin\" type=\"button\"><i aria-hidden=\"true\"></i><span>Taman Melawati</span></button>",
+      "css": ".ds-map-pin{display:inline-flex;align-items:center;gap:7px;border:0;background:transparent;color:var(--ink,#062641);font:800 .78rem/1 Manrope,sans-serif;cursor:pointer}.ds-map-pin i{position:relative;display:block;width:25px;height:25px;border-radius:50% 50% 50% 0;background:var(--cyan-deep,#0495aa);box-shadow:0 6px 12px rgba(3,27,44,.18);transform:rotate(-45deg);transition:transform .25s cubic-bezier(.16,1,.3,1)}.ds-map-pin i::after{content:\"\";position:absolute;width:7px;height:7px;margin:9px;border-radius:50%;background:#fff}.ds-map-pin span{padding:9px 11px;border-radius:8px;background:#fff;box-shadow:0 7px 18px rgba(3,27,44,.12)}.ds-map-pin:hover i,.ds-map-pin:focus-visible i{transform:rotate(-45deg) scale(1.18)}.ds-map-pin:focus-visible{outline:3px solid var(--cyan,#00c7d8);outline-offset:5px}"
+    },
+    {
+      "name": "Mobile WhatsApp Bar",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "The persistent lower-thumb action shown only in the mobile composition.",
+      "html": "<a class=\"ds-mobile-whatsapp\" href=\"#\"><svg aria-hidden=\"true\" viewBox=\"0 0 24 24\"><path d=\"M20 11.5a8.4 8.4 0 0 1-8.6 8.3 9 9 0 0 1-3.6-.8L3 20.5l1.6-4.6a8.1 8.1 0 0 1-1.2-4.3A8.4 8.4 0 0 1 12 3.2a8.4 8.4 0 0 1 8 8.3Z\"/></svg><span>WhatsApp</span></a>",
+      "css": ".ds-mobile-whatsapp{min-height:58px;padding:0 28px;display:flex;align-items:center;justify-content:center;gap:10px;border-radius:14px;background:var(--orange,#ff6b12);color:#fff;font:800 1rem/1 Manrope,sans-serif;text-decoration:none;box-shadow:0 15px 38px rgba(3,27,44,.42);transition:transform .3s cubic-bezier(.16,1,.3,1),background .3s}.ds-mobile-whatsapp svg{width:24px;fill:none;stroke:currentColor;stroke-width:1.8}.ds-mobile-whatsapp:hover{transform:translateY(-3px);background:#ff761f}.ds-mobile-whatsapp:focus-visible{outline:3px solid var(--cyan,#00c7d8);outline-offset:5px}.ds-mobile-whatsapp:active{transform:translateY(-1px)}"
+    },
+    {
+      "name": "Coverage Status Pill",
+      "kind": "custom",
+      "refersTo": "status-pill",
+      "description": "A translucent live-status label for map selection feedback.",
+      "html": "<p class=\"ds-map-status\" aria-live=\"polite\">Pilih pin untuk semak kawasan</p>",
+      "css": ".ds-map-status{width:max-content;min-width:250px;margin:0;padding:10px 18px;border-radius:99px;background:rgba(255,255,255,.88);color:var(--ink,#062641);font:700 1rem/1.35 Manrope,sans-serif;text-align:center;box-shadow:0 10px 30px rgba(3,27,44,.12);backdrop-filter:blur(8px)}"
+    }
+  ],
+  "narrative": {
+    "northStar": "The Technician Already on the Way",
+    "overview": "The system should feel direct, calm, and visibly equipped. It borrows from the material world of plumbing work—deep navy workwear, cyan pipe markings, bright chrome, wet tile, residential warmth, and the orange urgency of a service call—without turning into a themed novelty.\n\nLarge editorial panels alternate between photographic navy and warm off-white. Decisive image crops, oversized geometric headlines, spare line diagrams, and highly legible contact actions create confidence for visitors who may be scanning under stress. Expression comes from the work itself: people, tools, pipes, maps, and proof of workmanship.",
+    "keyCharacteristics": [
+      "Deep, photographic navy surfaces balanced by warm off-white relief.",
+      "Cyan behaves like technical ink; orange signals an immediate contact action.",
+      "Compact, heavy display typography paired with calm utility text.",
+      "Large image-led panels, practical local cues, and thumb-reachable conversion.",
+      "Softened industrial forms with occasional pipe bends, map pins, and restrained rotation."
+    ],
+    "rules": [
+      { "name": "The Two-Signal Rule", "body": "Cyan explains the system and marks trust or location; orange asks for immediate action. Do not swap their jobs.", "section": "colors" },
+      { "name": "The Plumbing-Line Rule", "body": "Cyan grid and line geometry belongs only where it reads as a pipe, route, coverage radius, or technical mark.", "section": "colors" },
+      { "name": "The Compact Promise Rule", "body": "Major headings stay heavy, tightly tracked, and short enough to read in one glance.", "section": "typography" },
+      { "name": "The One Handwritten Note Rule", "body": "Georgia italic is a rare human signature, not a third general-purpose typeface.", "section": "typography" },
+      { "name": "The Alternating-Panel Rule", "body": "Preserve the rhythm of dark photographic panels and warm explanatory panels; avoid a continuous field of interchangeable cards.", "section": "layout" },
+      { "name": "The Evidence Gets Lift Rule", "body": "Elevation belongs to proof, location, or immediate action—not to every section wrapper.", "section": "elevation" },
+      { "name": "The Pipe-Bend Rule", "body": "Large asymmetric radii are reserved for hero-scale photographs and major operational panels; compact controls remain disciplined.", "section": "shapes" }
+    ],
+    "dos": [
+      "Do lead with real work, tools, pipes, maps, and local operating cues.",
+      "Do keep urgent contact routes obvious, large, and reachable on mobile.",
+      "Do use cyan emphasis to connect typography, focus, navigation, and technical plumbing geometry.",
+      "Do alternate dense navy photography with warm off-white breathing room.",
+      "Do preserve visible keyboard focus and reduced-motion behavior."
+    ],
+    "donts": [
+      "Don't spread orange across decorative elements; reserve it for urgent conversion and one featured service cue.",
+      "Don't turn every content block into a floating card or apply shadows to whole sections.",
+      "Don't use generic abstract gradients, unrelated tech motifs, or decorative geometry without a plumbing or mapping rationale.",
+      "Don't replace decisive image crops with small thumbnails or a uniform gallery grid.",
+      "Don't introduce unverified review, timing, pricing, or availability claims as visual proof."
+    ]
+  }
+}
